@@ -1,4 +1,5 @@
-# IBM Data Science Professional Certificate - Jupyter Notebooks_Hands-On Practical Exercises
+# IBM Data Science Professional Certificate
+# Jupyter Notebooks_Hands-On Practical Exercises
 
 This repository contains the Jupyter notebooks I created during my **Data Science Professional Certificate**. 
 
